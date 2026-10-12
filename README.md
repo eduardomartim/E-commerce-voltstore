@@ -284,11 +284,11 @@ Email delivery in production is subject to the sending-domain requirement descri
 ### Steps
 
 ```bash
-git clone https://github.com/eduardomartim/voltstore.git
+git clone https://github.com/eduardomartim/e-commerce-voltstore.git
 ```
 
 ```bash
-cd voltstore
+cd e-commerce-voltstore
 ```
 
 ```bash
